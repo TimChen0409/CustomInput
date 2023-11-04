@@ -1,6 +1,6 @@
-# VitualScroller
+# CustomInput
 
-A custom component for Blazing fast scrolling of any amount of data
+A CustomInputNumber component for  RoomAllocation component practice
 
 ## Project Setup
 
